@@ -1,0 +1,12 @@
+/home/ss/.rvm/rubies/ruby-2.2.2/bin/ruby -r ./siteconf20150910-7010-j5vlj5.rb extconf.rb
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+compiling rubymain.cpp
+compiling mapper.cpp
+linking shared-object fastfilereaderext.so
+
+make "DESTDIR=" install
+/usr/bin/install -m 0755 fastfilereaderext.so ./.gem.20150910-7010-ir6nev
