@@ -19,27 +19,28 @@
     }
 
   }
-    nav {
-      position: absolute;
-      bottom: 5vmin;
-      right: 5vmin;
+  
+  nav {
+    position: absolute;
+    bottom: 5vmin;
+    right: 5vmin;
 
-      a {
-        &, &:hover, &:visited, &:active {
-          color: white;
-          text-transform: lowercase;
-          font-size: 2vw;
-          margin-left: 2em;
-          transition: transform 0.3s ease-in;
-          text-decoration: none;
-        }
+    a {
+      &, &:hover, &:visited, &:active {
+        color: white;
+        text-transform: lowercase;
+        font-size: 2vw;
+        margin-left: 2em;
+        transition: transform 0.3s ease-in;
+        text-decoration: none;
+      }
 
-        &:hover {
-          transform: scale(1.4);
-          color: red;
-        }
+      &:hover {
+        transform: scale(1.4);
+        color: red;
       }
     }
+  }
   
 
 }
