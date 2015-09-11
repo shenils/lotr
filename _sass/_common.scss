@@ -1,0 +1,13 @@
+@for $i from 1 through 6 {
+  h#{$i} {
+    font-family: 'UnifrakturMaguntia', cursive; 
+    font-weight: 400;
+    text-transform: lowercase;
+  }
+}
+
+nav.navbar {
+  font-family: 'UnifrakturMaguntia', cursive; 
+  font-weight: 400;
+  text-transform: lowercase;
+}

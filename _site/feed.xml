@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home</title>
+    <title>The Fellowship!</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
+<<<<<<< HEAD
     <link>http://yourdomain.com/lotr/</link>
     <atom:link href="http://yourdomain.com/lotr/feed.xml" rel="self" type="application/rss+xml"/>
 <<<<<<< HEAD
@@ -12,6 +13,12 @@
 =======
     <pubDate>Thu, 10 Sep 2015 16:56:35 +0530</pubDate>
     <lastBuildDate>Thu, 10 Sep 2015 16:56:35 +0530</lastBuildDate>
+>>>>>>> develop
+=======
+    <link>http://shenils.github.io/lotr/</link>
+    <atom:link href="http://shenils.github.io/lotr/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 11 Sep 2015 12:58:49 +0530</pubDate>
+    <lastBuildDate>Fri, 11 Sep 2015 12:58:49 +0530</lastBuildDate>
 >>>>>>> develop
     <generator>Jekyll v2.5.3</generator>
     
@@ -33,8 +40,8 @@
 
 </description>
         <pubDate>Sun, 06 Sep 2015 21:45:03 +0530</pubDate>
-        <link>http://yourdomain.com/lotr/jekyll/update/2015/09/06/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/lotr/jekyll/update/2015/09/06/welcome-to-jekyll.html</guid>
+        <link>http://shenils.github.io/lotr/jekyll/update/2015/09/06/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://shenils.github.io/lotr/jekyll/update/2015/09/06/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
