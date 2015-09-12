@@ -4,28 +4,27 @@
     <title>The Fellowship!</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-<<<<<<< HEAD
-    <link>http://yourdomain.com/lotr/</link>
-    <atom:link href="http://yourdomain.com/lotr/feed.xml" rel="self" type="application/rss+xml"/>
-<<<<<<< HEAD
-    <pubDate>Thu, 10 Sep 2015 13:15:17 +0530</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2015 13:15:17 +0530</lastBuildDate>
-=======
-    <pubDate>Thu, 10 Sep 2015 16:56:35 +0530</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2015 16:56:35 +0530</lastBuildDate>
->>>>>>> develop
-=======
     <link>http://shenils.github.io/lotr/</link>
     <atom:link href="http://shenils.github.io/lotr/feed.xml" rel="self" type="application/rss+xml"/>
-<<<<<<< HEAD
-    <pubDate>Fri, 11 Sep 2015 12:58:49 +0530</pubDate>
-    <lastBuildDate>Fri, 11 Sep 2015 12:58:49 +0530</lastBuildDate>
->>>>>>> develop
-=======
-    <pubDate>Sat, 12 Sep 2015 12:38:32 +0530</pubDate>
-    <lastBuildDate>Sat, 12 Sep 2015 12:38:32 +0530</lastBuildDate>
->>>>>>> develop
+    <pubDate>Sat, 12 Sep 2015 13:56:01 +0530</pubDate>
+    <lastBuildDate>Sat, 12 Sep 2015 13:56:01 +0530</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Another Post!</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi consequuntur, ducimus, deleniti fugiat quidem maxime est eveniet, illum corrupti harum aliquid ipsam iure doloremque in. Laudantium eius nam voluptates dolore!&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 07 Sep 2015 18:52:03 +0530</pubDate>
+        <link>http://shenils.github.io/lotr/post/x/2015/09/07/Another-post.html</link>
+        <guid isPermaLink="true">http://shenils.github.io/lotr/post/x/2015/09/07/Another-post.html</guid>
+        
+        
+        <category>post</category>
+        
+        <category>x</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
