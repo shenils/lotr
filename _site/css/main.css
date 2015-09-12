@@ -1,26 +1,47 @@
 h1 {
-  font-family: 'UnifrakturMaguntia', cursive;
-  font-weight: 400; }
+  font-family: "UnifrakturMaguntia", cursive;
+  font-weight: 400;
+  text-transform: lowercase; }
 
 h2 {
-  font-family: 'UnifrakturMaguntia', cursive;
-  font-weight: 400; }
+  font-family: "UnifrakturMaguntia", cursive;
+  font-weight: 400;
+  text-transform: lowercase; }
 
 h3 {
-  font-family: 'UnifrakturMaguntia', cursive;
-  font-weight: 400; }
+  font-family: "UnifrakturMaguntia", cursive;
+  font-weight: 400;
+  text-transform: lowercase; }
 
 h4 {
-  font-family: 'UnifrakturMaguntia', cursive;
-  font-weight: 400; }
+  font-family: "UnifrakturMaguntia", cursive;
+  font-weight: 400;
+  text-transform: lowercase; }
 
 h5 {
-  font-family: 'UnifrakturMaguntia', cursive;
-  font-weight: 400; }
+  font-family: "UnifrakturMaguntia", cursive;
+  font-weight: 400;
+  text-transform: lowercase; }
 
 h6 {
-  font-family: 'UnifrakturMaguntia', cursive;
-  font-weight: 400; }
+  font-family: "UnifrakturMaguntia", cursive;
+  font-weight: 400;
+  text-transform: lowercase; }
+
+body {
+  font-family: arial; }
+
+.raw {
+  font-family: arial; }
+
+nav.navbar {
+  font-family: "UnifrakturMaguntia", cursive;
+  font-weight: 400;
+  text-transform: lowercase; }
+
+footer {
+  margin: 2em 0 1em;
+  text-align: center; }
 
 #land {
   background-image: url("../images/fotr-silhouette.jpg");
@@ -31,7 +52,7 @@ h6 {
   width: 100%;
   height: 100vh;
   position: relative;
-  font-family: 'UnifrakturMaguntia', cursive; }
+  font-family: "UnifrakturMaguntia", cursive; }
   #land header {
     border: 1px solid transparent; }
     #land header h1 {
@@ -52,3 +73,10 @@ h6 {
     #land nav a:hover {
       transform: scale(1.4);
       color: red; }
+
+#about img {
+  border: 3px solid; }
+  #about img.pull-left {
+    margin-right: 20px; }
+  #about img.pull-right {
+    margin-left: 20px; }
